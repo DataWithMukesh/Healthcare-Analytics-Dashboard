@@ -565,7 +565,7 @@ Healthcare-Analytics-Dashboard/
 
 > If you found this project helpful, please ⭐ star this repository!
 
-[![LinkedIn]([https://www.linkedin.com/in/mukeshpatel32/?skipRedirect=true](https://www.linkedin.com/in/mukeshpatel32/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BqZ%2FQlX%2BsRXaYDyJmNV6n6w%3D%3D))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/mukeshpatel32)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/yourusername)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?style=for-the-badge)](https://yourportfolio.com)
 
