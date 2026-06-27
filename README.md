@@ -52,7 +52,7 @@ This project presents a **Hospital Operation & Patient Experience Dashboard** bu
 
 > Dashboard built in Microsoft Excel with interactive slicers, KPI cards, and 6+ chart types.
 
-![Dashboard Preview](dashboard_screenshot.png)
+![Dashboard Preview](dashboard_screenshot.PNG)
 
 ### Dashboard Features:
 - ✅ **Interactive Slicers** — Filter by Admission Status, Department, Gender
