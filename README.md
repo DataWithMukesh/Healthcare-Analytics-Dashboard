@@ -9,7 +9,7 @@
 
 **An interactive Excel dashboard analyzing hospital patient flow, wait times, satisfaction scores, and department performance across 9,216 patients.**
 
-[📊 View Dashboard](#dashboard_screenshot.PNG) • [📋 Business Questions](#business-questions) • [🛠 Tools Used](#tools-used) • [📁 Dataset](#dataset-overview)
+[📊 View Dashboard](dashboard_screenshot.PNG) • [📋 Business Questions](#business-questions) • [🛠 Tools Used](#tools-used) • [📁 Dataset](#dataset-overview)
 
 </div>
 
